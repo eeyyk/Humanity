@@ -1,0 +1,61 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-04-29T21:53:06+08:00
+
+====== Piano Crash Course ======
+Created Wednesday 29 April 2020
+
+==== Model ====
+
+- Right hand - Melody
+- Left hand - Simple chord accompaniment
+- Transpose for other keys
+  
+
+==== Daily Practice ====
+
+1. Scales
+	- C Major
+	- A Minor
+	- Chromatic
+	- 3th
+	- 6th
+	- 8th
+	  
+2. Arpeggio
+	- C Major
+	- A Minor
+	- G7 Major
+	- E7 Major
+	  
+3. Chordal Progression
+   
+
+==== Piano Etudes ====
+
+- Beyer
+- Czerny 100
+- Czerny 30
+- Czerny 40
+- Czerny 50
+  
+
+==== Violin Etudes ====
+
+- Sitt
+- Kaiser
+- Kreutzer
+- Rode
+  
+
+==== Pieces ====
+
+- Casio Pieces
+- Yamaha Pieces
+- Romantic Series
+- Children Pieces
+- Violin Pieces
+- Handel Violin Sonata
+- Beethoven Violin Sonata
+- Mozart Violin Sonata
+- Violin Concerto

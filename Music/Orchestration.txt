@@ -1,0 +1,62 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-04-29T21:53:45+08:00
+
+====== Orchestration ======
+Created Wednesday 29 April 2020
+
+==== Single melody (unison) ====
+
+- blending of tones
+- playing in octaves
+  
+
+==== Several melody lines (polyphonic) ====
+
+- each melody lines should be distinct and identifiable
+- beware of confusion by octave doubling
+  
+
+==== Several parts (harmony in a chorus) ====
+
+- stress blending rather than distinct
+  
+
+==== Chordal (rhythmic movement) ====
+
+- distribution of the notes in a chord to differenct instruments
+- stacking
+- interleaving
+- overlapping
+- blending
+  
+
+==== Accompaniment (rhythmic) ====
+
+- basic line
+- rhythmic chords
+  
+
+==== Accompaniment (still notes) ====
+
+- quiet, slow long chords
+- each notes can be seen as a melody line
+  
+
+==== One melody + accompaniment ====
+
+- One melody line
+- Other instruments are used as accompaniment
+  
+
+==== Two melody + accompaniment ====
+
+- One main melody line
+- One counter melody line
+- Other instrume are used as accompaniment
+  
+
+==== N parts harmony + accompaniment ====
+
+- similar to write accompaniment for a chorus
+- very difficult to write with good effect

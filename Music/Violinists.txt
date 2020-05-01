@@ -1,0 +1,40 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-04-23T22:01:13+08:00
+
+====== Violinists ======
+Created Thursday 23 April 2020
+
+==== First Generation ====
+	* Heifetz
+	* Nathan Milstein
+	* Ivry Gitlis
+	* Arthur Grumiaux
+	* Kogan
+	* Kreisler
+	* Carl Flesch
+	* Gallemian
+
+==== Second Generation ====
+	* Henry Szeryng
+	* Itzhak Perlman
+	* Ida Haedel
+	* Kyung Wha Chung (鄭京和)
+	* Issac Stern
+	* Aaron Rosand
+	* Menuhin
+	* David Oistrakh
+	* Gil Shaham
+
+==== Third Generation ====
+	* Joshua Bell
+	* Hilary Haln
+	* Sophie Mutter
+	* Maxim Vengerov
+	* Clara Jumi Kang (康珠美)
+	* Julia Fischer
+	* Janine Jansen
+	* Arabella Steinbacher
+	* Zimmerman
+	* Midori Goto
+	* Sarah Cheng

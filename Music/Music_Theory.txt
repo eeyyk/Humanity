@@ -1,0 +1,93 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-04-23T22:05:20+08:00
+
+====== Music Theory ======
+Created Thursday 23 April 2020
+
+
+==== Musical notes and intervals ====
+
+1 ) Musical alphabet
+	* A,B, C, D, E, F, G, A, B
+	* sharps
+	* flats
+	* double sharps and double flats
+
+2 ) Intervals
+	* 2nd, 3rd, 4th, 5th, 6th, 7th, 8th etc
+	* major, minor, perfect, augmented, diminished
+	* octave
+
+==== Musical Scales and Modes ====
+
+1 ) Scales
+	* Major
+	* Minor
+
+2 ) Scale degrees
+	* 1st tonic
+	* 2nd supertonic
+	* 3rd mediant
+	* 4th subdominant
+	* 5th dominant
+	* 6th submediant
+	* 7th leading tone
+
+3 ) Music modes
+	* scales derived from a parent major scale
+	* Ionian (starting on 1)
+	* Dorian (starting on 2)
+	* Phrygian (starting on 3)
+	* Lydian (starting on 4)
+	* Mixolydian (starting on 5)
+	* Aeolian (starting on 6)
+	* Locrian (starting on 7)
+
+==== Chords and Chord Extensions ====
+
+1 ) Triad chords
+	* major : 1-3-5
+	* minor :  6-1-3
+	* diminished : 7-2-4 (minor 3rd + diminished 5th)
+	* augmented :  1-3-#5  (major  3rd+ augmented 5th)
+
+2 ) Seventh chords
+	* triad chord + 7th
+	* types : major, minor, dominant, diminished, half-diminished
+
+3 ) Chord extensions
+	* notes added to basic triad : 9th, 11th, 13th
+
+4 ) Chord inversion
+	* transposing notes to different octaves
+
+5 ) Chord progression
+	* harmony + rhythm
+
+6 ) Roman numeral analysis
+	* C Am F G  ( I vi IV V)
+
+==== Notation ====
+	* 音符
+	* 休止符
+	* 五線譜
+	* 譜號
+	* 音值
+	* 變音
+	* 裝飾音
+	* 速度
+	* 節奏, 節拍
+	* 力度
+	* 表情符號
+	* 省略號
+	* 音樂術語
+
+==== 音樂理論 ====
+
+1 ) 音律
+	* 五度相生律
+	* 純律
+	* 十二平均律
+
+2 ) 轉調, 移調

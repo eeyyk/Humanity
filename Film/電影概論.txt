@@ -1,0 +1,56 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-10-28T12:27:11+08:00
+
+====== 電影概論 ======
+Created Monday 28 October 2019
+
+==== 歷史 ====
+	* 默片 －>有聲電影
+	* 黑白－>彩色電影
+	* 菲林－>數碼電影
+	* 平面－>3D 電影
+
+==== 理論 ====
+	* 電影語言
+	* 蒙太奇（鏡頭組合）
+	* 心理分析
+
+==== 流派 ====
+	* 現實
+	* 新浪潮
+	* 黑色
+
+==== 製作 ====
+
+1) Pre-production
+	* 編劇
+	* 設計
+	* 財務（監製）
+
+2) Production
+	* 導演
+	* 演員
+	* 攝影
+	* 場景
+	* 燈光
+	* 錄音
+	* 道具
+
+3) Post-production
+	* 字幕
+	* 配樂
+	* 音效
+	* 剪接
+	* 配音
+	* 特技
+
+4) Distribution
+	* Marketing
+	* Distribution
+
+==== 技術 ====
+	* Computer Graphics (CG)
+	* Digital Cinema (2k, 4k, 8k)
+	* 3D - Steroscopic
+	* 4D - sense, vibration, scent

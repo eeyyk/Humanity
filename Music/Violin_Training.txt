@@ -1,0 +1,50 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-04-23T22:02:31+08:00
+
+====== Violin Training ======
+Created Thursday 23 April 2020
+
+==== 基本 ====
+	* 持琴
+	* 持弓
+
+==== 左手 ====
+	* 各調第一把位
+	* 各調高把位
+	* 換把
+	* 雙音
+	* 和弦
+	* vibrato
+	* trill
+	* harmony
+	* 左手撥弦
+	* decoration
+
+==== 右手 ====
+	* 分弓
+	* 連弓
+	* 頓弓 (martele)
+	* 連頓弓 
+	* 斷弓 (staccato)
+	* 跳弓 (spiccato)
+	* 拋弓
+	* 擊弓
+	* tremolo
+	* 右手撥弦
+
+==== 練習 ====
+	* 慢速
+	* 分解
+	* 簡化
+	* 音階
+	* 練習曲
+	* 特殊練習
+
+==== 演奏 ====
+	* 詮釋
+	* 風格
+	* 速度
+	* 力度
+	* 音色
+裝飾音

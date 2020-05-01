@@ -1,0 +1,43 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-29T15:35:00+08:00
+
+====== Orchestral Instruments ======
+Created Wednesday 29 May 2019
+
+==== String ====
+	* Violin
+	* viola
+	* cello
+	* double base
+
+==== Woodwind ====
+	* piccolo
+	* flute
+	* oboe/ english horn
+	* basson
+	* contra basson
+
+==== Brass ====
+	* trumpet
+	* trombone
+	* french horn
+	* tuba
+
+==== Percussion ====
+	* typmani
+	* bass/snare drum
+	* cymbal
+	* triangle
+	* tambourine
+
+==== Others ====
+	* piano
+	* harp
+	* organ
+	* guitar
+	* glockenspiel
+	* xylophone
+	* chimes
+
+

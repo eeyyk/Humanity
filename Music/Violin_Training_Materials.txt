@@ -1,0 +1,44 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-04-23T22:04:00+08:00
+
+====== Violin Training Materials ======
+Created Thursday 23 April 2020
+
+
+==== Etudes ====
+	* Hoffman
+	* Suzuki
+	* Sitt
+	* Kaiser
+	* Kreutzer
+	* Mazas
+	* Fiorillo
+	* Rode
+	* Dont
+
+==== Advanced Etudes ====
+	* Vieutemp
+	* Dancla
+	* Ernst
+	* Saint-Labin
+	* Wieniawski
+	* Paganini
+
+==== Scales ====
+	* 2 octave
+	* 3 octave
+	* Appregio
+	* Himaly
+	* Carl Flesch
+
+==== Special Exercise ====
+	* Sevcik
+	* Schradieck
+	* 小提琴基本功
+
+==== Pieces ====
+	* violin pieces
+	* Sonatas
+	* Concertos
+	* Orchestral work

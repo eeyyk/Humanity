@@ -1,0 +1,42 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-15T13:50:03+08:00
+
+
+
+====== Music ======
+Created Wednesday 15 May 2019
+
+==== Basic ====
+	* music theory
+	* physics of music
+	* musicianship (listening, singling at sight)
+
+==== Composing ====
+	* melody writing (旋律寫作)
+	* forms (曲式學)
+	* harmony (和聲學)
+	* counterpoint (對位)
+	* orchestration (配器法)
+
+==== Performance ====
+	* conducting
+	* vocal
+	* keyboard
+	* string
+	* percussion
+	* wood wind
+	* brass
+	* ensemble
+	* chamber
+
+==== History/Appreciation ====
+	* music history
+	* chinese music history
+	* western music appreciation
+	* chinese music appreciation
+
+==== Others ====
+	* computer music
+	* pedagogy (教學法)
+

@@ -1,0 +1,16 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-05-15T13:48:18+08:00
+
+====== Chinese Language ======
+Created Wednesday 15 May 2019
+
+==== 基本 ====
+[[+1. 語法]]
+[[+2. 修辭]]
+[[+3. 普通話]]
+[[+4. 廣東話]]
+[[+5. 語言學]]
+[[+6. 國學概論]]
+[[+7. 現代文學]]
+[[+8. 寫作]]

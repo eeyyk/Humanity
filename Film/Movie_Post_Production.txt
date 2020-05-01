@@ -1,0 +1,100 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-04-23T19:49:05+08:00
+
+====== Movie Post Production ======
+Created Thursday 23 April 2020
+
+==== Storage ====
+
+- HDD
+- SSD
+- RAID
+- SAN
+
+==== Editing ====
+
+- organisation
+- backup
+- assemble
+- syncing
+- editing
+- clips
+- timeline
+
+==== Motion Graphics ====
+
+- title
+- overlays/inlays
+- animation
+- idents
+
+==== Visual effects ====
+
+- retoscoping
+- keying
+- 3D
+- animation
+- composition
+
+==== Color Grading ====
+
+- corrections
+- shot matching
+- LUTs
+- grading
+- legalization
+
+==== Conforming ====
+
+- resolution
+- camera
+- frame rate
+
+==== Finishing and Mastering ====
+
+- real-time finishing
+- minor edit
+- minor VFX
+- final colour grading
+- final motion graphics
+
+==== Deliverables ====
+
+- DCP (digital cinema)
+- DVD/bluray
+- VOD
+- broadcasting
+- color space
+
+==== Audio Layers ====
+
+- cleaning 
+- sync
+- Foley
+- HDR/dubbing
+- SFX
+
+==== Audio Mixing ====
+
+- normalisation
+- EQ and mixing
+- multiple standards
+
+==== Software ====
+
+- After Effects
+- Premiere Pro
+- Avid
+- Speed grade
+- DaVince Resolve + Fusion
+- Autodesk Flame/Inferno + Lustre
+- SAM Quantel Rio
+- SGO Mistika
+
+==== Formats ====
+
+- H.264
+- H.265
+- VP9
+- DCP

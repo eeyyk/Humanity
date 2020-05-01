@@ -1,0 +1,96 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2019-06-15T15:09:01+08:00
+
+====== English Grammar ======
+Created Saturday 15 June 2019
+
+==== Word ====
+
+ 1) 實詞 
+	* Noun
+	* Pronoun
+	* Adjective
+	* Verb (tense, mode)
+	* Adverb
+	* Numeral
+
+2) 虛詞
+	* Article
+	* Preposition
+	* Conjunction
+	* Interjection
+
+
+==== Phrases ====
+	* Prepositional Phrase
+	* Infinitive
+	* Gerund
+	* Present Participle
+	* Past Participle
+
+
+==== Simple Sentence ====
+
+1) Patterns
+	* S + V
+	* S + V + Complement
+	* S + V + attribute
+	* S + V + O
+	* S + V + O + Indirect O
+
+2) Elements
+	* 主
+	* 謂
+	* 賓
+	* 定
+	* 狀
+	* 補
+	* 表 (she is beautiful)
+
+3) Types
+	* Statement
+	* Questions
+	* Commands
+	* Exclamation
+
+==== Compound Sentence ====
+	* and
+	* or
+	* but
+	* for
+
+==== Complex Sentence ====
+
+1)  Noun Clause
+	* 主
+	* 賓
+	* 表
+	* 同位
+
+2) Attibutive Clause
+	* relative pronoun
+	* relative adverbs
+	* as
+
+3) Adverbial Clause
+	* time
+	* place
+	* condition
+	* reason
+	* manner
+	* comparison
+	* purpose
+	* results
+	* concession
+
+==== Special Constructs ====
+	* Indirect Speech
+	* 獨立主格
+	* 倒裝
+	* 省略
+	* It
+
+==== Punctuation ====
+	* Marks
+	* Separation

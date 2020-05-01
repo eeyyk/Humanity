@@ -1,0 +1,54 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-04-29T21:52:17+08:00
+
+====== Piano Exam ======
+Created Wednesday 29 April 2020
+
+==== Marking Scheme ====
+
+- Scales and Arpeggios (21)
+- Three Pieces (3 x 30 = 90)
+- Playing at sight (21)
+- Aural test (18)
+- Total 150 ( 100- pass, 120 - merit, 130 - distinction)
+  
+
+==== Scales and Arpeggios ====
+
+1. Scales
+	- 24 major and minor scales in 4 octaves
+	- in similar motion
+	- in contrary motion
+	- 3rd and 6th apart in similar motion
+	  
+	  
+2. Chromatic Scales
+	- starting on any note
+	- 4 octaves
+	  
+3. Arpeggios
+	- root, first, second inversion of common chord
+	- dominant 7th
+	- diminished 7th
+	- 4 octaves
+	  
+
+==== Three Pieces ====
+
+- each from classical, Romantic and Modern periods
+- Sonatas
+- Concertos
+  
+
+==== Playing at sight ====
+
+- one minute to prepare
+  
+
+==== Aural Tests ====
+
+- sing from memory a short melody played twice
+- sing 6 notes from score (+5th, -4th)
+- Identify features of song
+- Clap the rhythm

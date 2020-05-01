@@ -1,0 +1,57 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-04-29T21:55:26+08:00
+
+====== Music Arrangement ======
+Created Wednesday 29 April 2020
+
+==== Melody treatment ====
+
+- Simple repeat
+- Fantasy, Rondo
+- Thematic development (Polyphonic Treatment)
+  
+
+==== Selection of chords ====
+
+1 ) Major
+	- C
+	- F
+	- G/G7
+	- Am
+	- Dm
+	- Em
+  
+2 ) Minor
+	- Am
+	- Dm
+	- E/Em
+	- Bm
+	- Caug
+	- F
+  
+
+==== Pattern Selection ====
+
+- Bass
+- Harmony
+- Rhythm
+- Melody
+- Second melody
+  
+
+==== Instrumentation ====
+
+- Piano
+- Electronic Band (Drum, Bass, Guitar, String)
+- Wind ensemble
+- Brass ensemble
+- Strings
+- Full Orchestra
+  
+
+==== Intro, Fill and Ending ====
+
+- Introduction
+- Fills
+- Ending

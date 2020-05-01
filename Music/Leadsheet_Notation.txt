@@ -1,0 +1,33 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2020-04-29T21:56:27+08:00
+
+====== Leadsheet Notation ======
+Created Wednesday 29 April 2020
+
+==== Leadsheet ====
+
+- Melody line + chord
+  
+
+==== Chord ====
+
+- A#m - A sharp minor
+- Db7sus - D Flat seven Sus
+  
+
+==== Melody ====
+
+1 ) Pitch
+
+
+- c#, bb, c+ (above middle C), c- (below middle C)
+  
+2 ) Length
+
+- c2, c4, c8, c16, c32
+- c2.
+- c/3 d/3 e/3
+- c4+8. (slur)
+
+
